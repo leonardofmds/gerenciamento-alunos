@@ -61,11 +61,3 @@ A entidade **Aluno** possui os seguintes atributos:
    java -jar target/gerenciamento-alunos.jar
    ```
 
-## Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail [**seuemail@exemplo.com**](mailto\:seuemail@exemplo.com).
-
----
-
-**Desenvolvido por [Seu Nome]**
-
