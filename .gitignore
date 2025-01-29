@@ -1,0 +1,37 @@
+# Diretórios e arquivos gerados pelo Maven
+target/
+*.jar
+*.war
+*.ear
+
+# Configuração do Maven Wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Arquivos de logs
+logs/
+*.log
+*.out
+
+# Configuração do IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.class
+
+# Arquivos de cache do sistema
+*.DS_Store
+*.lock
+
+# Credenciais sensíveis
+application.properties
+application.yml
+.env
+
+# Arquivos específicos do PostgreSQL
+postgres_data/
+/bin/
